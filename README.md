@@ -5,7 +5,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python)
 ![Coverage](https://img.shields.io/badge/coverage-80%25-brightgreen)
 
-This repo contains code and data for the paper "COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations".
+This repo contains code and data for the paper "COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations". Here's the [link](https://arxiv.org/abs/2510.24810) to our paper.
 
 ## Background
 - Fact-checking on major platforms, such as X, Meta, and TikTok, is shifting from expert-driven verification to **a community-based setup**, where users contribute explanatory notes to clarify why a post might be misleading.
@@ -91,6 +91,21 @@ python fc_climatefever.py
 --output [OUTPUT_FILENAME] 
 ```
 You can find the prompt in `utils/prompts.py`.
+
+## Citation
+Please cite us if you use our data.
+```bibtex
+@misc{xing2025communitynotesdatasetexploringhelpfulness,
+      title={COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations}, 
+      author={Rui Xing and Preslav Nakov and Timothy Baldwin and Jey Han Lau},
+      year={2025},
+      eprint={2510.24810},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.24810}, 
+}
+```
+
 
 ## Authors
 Developed by **Rui Xing**, Preslav Nakov, Timothy Baldwin and Jey Han Lau \
