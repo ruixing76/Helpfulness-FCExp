@@ -102,16 +102,27 @@ python fc_climatefever.py
 You can find the prompt in `utils/prompts.py`.
 
 ## 📖 Citation
-Please cite us if you use our data.
+Please cite our work if you use the dataset, and consider giving our repository a ⭐.
+
 ```bibtex
-@misc{xing2025communitynotesdatasetexploringhelpfulness,
-      title={COMMUNITYNOTES: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations}, 
-      author={Rui Xing and Preslav Nakov and Timothy Baldwin and Jey Han Lau},
-      year={2025},
-      eprint={2510.24810},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2510.24810}, 
+@inproceedings{xing-etal-2026-communitynotes,
+    title = "{COMMUNITYNOTES}: A Dataset for Exploring the Helpfulness of Fact-Checking Explanations",
+    author = "Xing, Rui  and
+      Nakov, Preslav  and
+      Baldwin, Timothy  and
+      Lau, Jey Han",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-eacl.71/",
+    doi = "10.18653/v1/2026.findings-eacl.71",
+    pages = "1390--1411",
+    ISBN = "979-8-89176-386-9",
 }
 ```
 
