@@ -1,0 +1,2 @@
+# COMMUNITYNOTES
+Due to legal restrictions, we are unable to freely distribute the dataset online. Please complete the [request form](https://forms.office.com/r/SjyRxdL9Fv) to review the data agreement and apply for access to COMMUNITYNOTES.
